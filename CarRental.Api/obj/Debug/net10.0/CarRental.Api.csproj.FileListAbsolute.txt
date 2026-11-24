@@ -1,0 +1,13 @@
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\CarRental.Api.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\HotReload\browser-tools-key.public.json
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\HotReload\browser-tools-key.private.json
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\CarRental.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\CarRental.Api.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\CarRental.Api.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\CarRental.Api.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\CarRental.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alumno\Desktop\III\CarRentalApil\CarRental.Api\obj\Debug\net10.0\CarRental.Api.MvcApplicationPartsAssemblyInfo.cache

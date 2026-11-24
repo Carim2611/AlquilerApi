@@ -1,0 +1,58 @@
+@host = http://localhost:5240
+
+###  Obtener todos los autos
+GET {{host}}/api/autos
+Accept: application/json
+
+### Obtener un auto especifico por ID
+GET {{host}}/api/autos/2
+Accept: application/json
+
+### Crear un nuevo auto (valido: menos de 5 años)
+POST {{host}}/api/autos
+Content-Type: application/json
+
+{
+  "marca": "Merdeces Benz",
+  "modelo": "E 320",
+  "precio": 60,
+  "anio": 2021
+}
+
+### Crear un auto con más de 5 años de antigüedad (error)
+POST {{host}}/api/autos
+Content-Type: application/json
+
+{
+  "marca": "BMW",
+  "modelo": "M3",
+  "precio": 60.00,
+  "anio": 2015
+}
+
+### Actualizar un auto existente
+PUT {{host}}/api/autos/1
+Content-Type: application/json
+
+{
+  "id": 2,
+  "brand": "Merdeces Benz",
+  "model": "E 320",
+  "price": 50.00,
+  "year": 2021
+}
+
+### Eliminar auto
+DELETE {{host}}/api/autos/3
+
+###  Alquiler
+
+POST {{host}}/api/alquileres
+Content-Type: application/json
+
+{
+  "IdUsuario": 1,
+  "IdAuto": 2,
+  "FechaInicio": "2025-07-10T10:00:00",
+  "FechaFin": "2025-07-14T10:00:00"
+}
